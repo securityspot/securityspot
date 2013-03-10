@@ -22,14 +22,15 @@
                 margin:20px auto 20px auto;
                 padding:0px;
                 border:0px solid #cccccc;
-                background:#898989;
-            }
+                background:#565656;
+		color:#FFFFFF;
+           }
 
             #banner{
                 height:150px;
-                background:#898989;
-				padding:8px 8px 8px 8px;
-				color:#FFFFFF;
+                background:#565656;
+		padding:8px 8px 8px 8px;
+		color:#FFFFFF;
             }
 
             #postHeaderPadding{
@@ -50,7 +51,7 @@
         <div class="container">
             <div id="banner">
 				<center>
-					<img src="images/banner.png">
+					<img src="../../../images/banner.png">
 				</center>	
             </div>
 
