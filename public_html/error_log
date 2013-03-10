@@ -1,0 +1,5 @@
+[02-Mar-2013 23:24:49] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home3/securiv9/public_html/application/views/pages/home.php on line 9
+[02-Mar-2013 23:24:52] PHP Parse error:  syntax error, unexpected '=', expecting ';' in /home3/securiv9/public_html/application/views/pages/home.php on line 9
+[02-Mar-2013 23:26:14] PHP Parse error:  syntax error, unexpected '%', expecting ';' in /home3/securiv9/public_html/application/views/pages/home.php on line 9
+[02-Mar-2013 23:26:17] PHP Parse error:  syntax error, unexpected '%', expecting ';' in /home3/securiv9/public_html/application/views/pages/home.php on line 9
+[02-Mar-2013 23:26:39] PHP Parse error:  syntax error, unexpected '<' in /home3/securiv9/public_html/application/views/pages/home.php on line 10
